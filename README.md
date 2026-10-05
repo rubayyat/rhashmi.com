@@ -104,7 +104,7 @@ The homepage uses the supplied professional portrait stored locally at `assets/i
 ## Preview metadata
 
 Every page has its own title and description, basic Open Graph text metadata,
-and a site-specific monogram favicon. The draft includes `noindex, nofollow`
+and a site-specific monogram favicon. The draft includes `indexable, nofollow`
 while content is being reviewed. This is a search-engine request, not access
 control. Remove it only when the completed content is approved for indexing.
 No canonical URL, sitemap or custom domain is asserted for this draft.
